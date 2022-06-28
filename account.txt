@@ -1,0 +1,9 @@
+894  10000.00  1 Mark Johnson 2345.00 234_Macon_Ave. Miami Florida 34321
+838  8000.00   1 Sue Thomas 9999.00 1800_Pecan_Drive Bonifay Florida 323
+848  10999.00  1 Alex Reed 1000.00 11234_Acorn_road Chipley Florida 32428
+101  02000.90  0 Sussie Ray 100.00 129_line_dr Marrville Florida 39392
+111  03000.00  1 Larry Jason 1000.00 124_back_street Titusville Florida 23232
+444  05100.00  1 Mary Jones  0089.90 125_Orange_street Tallahsssee Florida 32310
+123  00900.00  1 Terry Speed 0233.90 ABC_Park_Place  Greenville Ohio 34390
+339  00050.00  1 Tuner Paige 0060.01 894_Reno_Road   Cario Georga 23420
+888  00100.00  0 Max Million 0222.90 456_Mood_lane   Austin Texas 85895
